@@ -9,7 +9,7 @@ from fastai import *
 from fastai.vision import *
 
 model_file_url = 'https://drive.google.com/uc?export=download&id=1g758A2NMZaTWIyXtl7JaAKMGu7SIQIuJ'
-model_file_name = 'model.pkl'
+model_file_name = 'model'
 classes = ['sisley','pissarro','monet','degas','manet','renoir']
 path = Path(__file__).parent
 
